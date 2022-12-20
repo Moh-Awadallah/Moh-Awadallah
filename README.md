@@ -1,4 +1,4 @@
-# Training-MohammedAwadallah
+Mohammed Awadallah
 
 
 ### 🌹 About me 🌹
