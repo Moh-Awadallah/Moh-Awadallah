@@ -16,7 +16,7 @@ _Technology and coding have always been my passions. I began by creating simple 
 
 ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript badge](https://img.shields.io/badge/javascript-E34F26?style=for-the-badge&logo=Javascript&logoColor=white) ![TS](https://img.shields.io/badge/typescript-0078D4?style=for-the-badge&logo=typescript&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![ sequelize](https://img.shields.io/badge/sequlize-100000?style=for-the-badge&logo=&logoColor=white)  ![Markdown badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![ReactJs](https://img.shields.io/badge/ReactJs-blue?style=for-the-badge&logo=React&logoColor=black)
-![nodejs](https://img.shields.io/badge/NodeJs-blue?style=for-the-badge&logo=NodeJs&logoColor=black)   
+![nodejs](https://img.shields.io/badge/NodeJs-blue?style=for-the-badge&logo=NodeJs&logoColor=black)   ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=NodeJs&logoColor=black) 
 
 
 
